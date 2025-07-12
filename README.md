@@ -31,8 +31,7 @@
 ### 퀴즈 시스템
 - `QuizLoader.cs`: 퀴즈 데이터 파일 로드
 - `QuizData.cs`: 퀴즈 데이터 구조 정의
-- `QuizCollisionHandler.cs`: 퀴즈 선택지 충돌 처리
-- `QuizOptionCollider.cs`: 선택지 충돌 감지
+- `QuizOptionCollider.cs`: 퀴즈 선택지 충돌 감지
 
 ## 퀴즈 데이터 형식
 퀴즈 데이터는 `StreamingAssets` 폴더의 텍스트 파일에서 관리됩니다.
