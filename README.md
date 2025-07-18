@@ -38,7 +38,7 @@ San and his kind teacher **Ms. Jane** must escape before they get caught — sol
 
 ## 🧪 Game Features
 
-- Temple-run style **running action gameplay** + math quiz mechanics  
+- **running action gameplay** + math quiz mechanics  
 - **+10 seconds for correct answers**, **–5 seconds and vibration for wrong answers**  
 - Questions are categorized based on **type of dyscalculia**  
 - Language-specific quiz loading via `quiz_xx.txt`  
