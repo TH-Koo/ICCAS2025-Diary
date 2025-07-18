@@ -92,3 +92,8 @@ Assets/
 Math Dino ist mehr als ein Lernspiel –  
 es soll als **digitales therapeutisches Werkzeug** Kindern mit Dyskalkulie helfen,  
 durch visuelles, wiederholtes Training Ängste abzubauen und mathematisches Selbstbewusstsein zu entwickeln.
+
+## 👤 Entwickler
+
+- Taehwan Koo, Bachelor-Student im Fachbereich Künstliche Intelligenz, Fakultät für Informatik
+- Interessensgebiete: Künstliche Intelligenz, Computer Vision, Medizin, autonomes Fahren, Anwendungen
