@@ -38,7 +38,7 @@ Zusammen mit seiner freundlichen Lehrerin **Frau Jane** muss er entkommen – mi
 
 ## 🧪 Spiel-Features
 
-- Temple-Run-ähnliches **Action-Rennspiel mit Quiz-Mechanik**  
+- **Action-Rennspiel mit Quiz-Mechanik**  
 - **+10 Sekunden** bei richtiger Antwort, **–5 Sekunden und Vibration** bei falscher Antwort  
 - Aufgaben basieren auf dem **Typ der Dyskalkulie**  
 - Lokalisierter Quiz-Import via `quiz_xx.txt`  
