@@ -105,5 +105,5 @@ and helps children build confidence and focus through gradual success.
 
 ## 👤 Developer
 
-- Taehwan Koo, undergraduate AI major  
-- Interested in game-based cognitive training and medical AI applications
+- Taehwan Koo, undergraduate student majoring AI, School of computer science  
+- Interested in AI, computer vison, medical, autonomus driving cars, applications
